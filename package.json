@@ -1,0 +1,23 @@
+{
+  "name": "jsfp",
+  "version": "1.0.0",
+  "description": "JS fp samples ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxai/jsfp.git"
+  },
+  "keywords": [
+    "js",
+    "fp"
+  ],
+  "author": "Pello Altadill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pxai/jsfp/issues"
+  },
+  "homepage": "https://github.com/pxai/jsfp#readme"
+}
